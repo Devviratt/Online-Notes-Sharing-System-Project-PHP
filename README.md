@@ -1,4 +1,9 @@
 # Online-Notes-Sharing-System-Project-PHP
+
+>Download The Zip File 
+>And Extract Them And
+>Then Follow The belo Steps
+
 How to run the Online Notes Sharing System Project using PHP and MySQL
 
 1. Download the project zip file
